@@ -1,0 +1,7 @@
+D:\Matheus\Cursos\DIO\dio-desafio-github\obj\Debug\net6.0\dio-desafio-github.csproj.AssemblyReference.cache
+D:\Matheus\Cursos\DIO\dio-desafio-github\obj\Debug\net6.0\dio-desafio-github.GeneratedMSBuildEditorConfig.editorconfig
+D:\Matheus\Cursos\DIO\dio-desafio-github\obj\Debug\net6.0\dio-desafio-github.AssemblyInfoInputs.cache
+D:\Matheus\Cursos\DIO\dio-desafio-github\obj\Debug\net6.0\dio-desafio-github.AssemblyInfo.cs
+D:\Matheus\Cursos\DIO\dio-desafio-github\obj\Debug\net6.0\dio-desafio-github.csproj.CoreCompileInputs.cache
+D:\Matheus\Cursos\DIO\dio-desafio-github\obj\Debug\net6.0\dio-desafio-github.MvcApplicationPartsAssemblyInfo.cs
+D:\Matheus\Cursos\DIO\dio-desafio-github\obj\Debug\net6.0\dio-desafio-github.MvcApplicationPartsAssemblyInfo.cache
